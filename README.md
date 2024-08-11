@@ -1,2 +1,2 @@
 # Contact Me
-## A backend for contact forms
+Backend for contact forms
